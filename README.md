@@ -1,4 +1,4 @@
-# Luxe Hotel & Wine Bar - Website Landing Page
+# Luxe Hotel - Website Landing Page
 
 This is a frontend website design project for high-end hotels and resorts, focusing on a luxurious and minimalist user experience.
 
